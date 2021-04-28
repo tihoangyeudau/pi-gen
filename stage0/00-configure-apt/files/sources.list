@@ -1,3 +1,3 @@
-deb http://free.nchc.org.tw/raspbian/raspbian/ RELEASE main contrib non-free rpi
+deb http://mirror.ossplanet.net/raspbian/raspbian/ RELEASE main contrib non-free rpi
 # Uncomment line below then 'apt-get update' to enable 'apt-get source'
-#deb-src http://free.nchc.org.tw/raspbian/raspbian/ RELEASE main contrib non-free rpi
+#deb-src http://mirror.ossplanet.net/raspbian/raspbian/ RELEASE main contrib non-free rpi
